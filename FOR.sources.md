@@ -20,4 +20,6 @@
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts) – 33 Concepts Every JavaScript Developer Should Know
 - [30 seconds of code](https://github.com/30-seconds/30-seconds-of-code) - Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 - [HTTP203](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAKIQFsNbV0JDws_G_bnNo9) – Google Developers discuss their philosophies about web development
-- [Front-End Performance Checklist 2019 ](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/) - An annual front-end performance checklist
+- [Front-End Performance Checklist 2019 ](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/) – An annual front-end performance checklist
+- [Frontend Raccoon](https://github.com/rtivital/jsraccoon) – Поради по верстці і написанню JavaScript коду
+- [React Things](https://github.com/rtivital/react-things) – Колекція матеріалів для вивчення ES2015, React, Redux, Webpack, Babel
