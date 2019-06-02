@@ -23,3 +23,12 @@
 - [Front-End Performance Checklist 2019 ](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/) – An annual front-end performance checklist
 - [Frontend Raccoon](https://github.com/rtivital/jsraccoon) – Поради по верстці і написанню JavaScript коду
 - [React Things](https://github.com/rtivital/react-things) – Колекція матеріалів для вивчення ES2015, React, Redux, Webpack, Babel
+
+### Product Management
+
+- [Inside Intercom](https://www.intercom.com/blog/) - блог компанії інтерком
+- [the Hustle](https://thehustle.co/episodes) - newsletter про тех тренди і новини
+- [Sachin Rekhi Blog](http://www.sachinrekhi.com/) - блог ex LinkedIn product
+- [Stratechery](https://stratechery.com) - Блог Бена томпсона про іновації та тренди
+- [First Round Review](https://firstround.com/review/) - ресур про тех компанії та стартапи
+- [Mind the Produсt]("https://www.mindtheproduct.com/) - блог для продакт менеджерів
