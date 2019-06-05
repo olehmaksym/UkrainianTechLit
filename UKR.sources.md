@@ -14,3 +14,5 @@
 - [Посібник Java​Script (Mozilla)](https://developer.mozilla.org/uk/docs/Web/JavaScript/Guide) – Посібник з JavaScript показує, як використовувати мову JavaScript, і надає її попередній огляд
 - [Розуміння ECMAScript 6](https://understandinges6.denysdovhan.com/) - Книжна по стандарту ECMAScript 6
 
+### HR
+- [shyshenko.com](https://www.shyshenko.com/blog) - Блог про рекрутинг
